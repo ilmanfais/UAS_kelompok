@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import NavbarComponent from "./components/NavbarComponent";
 import FooterComponent from "./components/FooterComponent";
 
-import HomePage from "./Pages/HomePage.jsx";
+import HomePage from "./pages/HomePage.jsx";
 import KelasPage from "./pages/KelasPage";
 import TestimonialPage from "./pages/TestimonialPage";
 import SyaratKetenPage from "./pages/SyaratKetenPage";
